@@ -57,6 +57,7 @@ npx live-server
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/76e71315-6e58-484a-981d-b17c9626f3de)
+![image](https://github.com/user-attachments/assets/e2e5208d-9034-4b07-95f3-590b53520e87)
 
 ---
 
