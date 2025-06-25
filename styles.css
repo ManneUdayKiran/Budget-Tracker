@@ -57,3 +57,6 @@ ul#expense-list button {
   padding: 4px 8px;
   cursor: pointer;
 }
+canvas#expenseChart {
+  max-height: 400px; /* adjust as needed */
+}
